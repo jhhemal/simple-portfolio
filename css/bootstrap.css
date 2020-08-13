@@ -11032,10 +11032,14 @@ table-primary, table-secondary, table-success, table-info, table-warning, table-
 
 .sptext{
   font-size: 20px;
+  color: #545454;
   text-align: justify;
 }
+.spt{
+  color: #545454;
+}
 ::selection{
-  background-color: #45b29a;
+  background-color: #e0ebe8;
 }
 
 .lnd a:hover{

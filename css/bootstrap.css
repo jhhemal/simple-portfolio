@@ -11047,3 +11047,8 @@ table-primary, table-secondary, table-success, table-info, table-warning, table-
   padding: 5px;
   padding-top: 15px;
 }
+
+.spbtn{
+  background-color: #45b29a;
+  color: #fff;
+}

@@ -11025,6 +11025,10 @@ table-primary, table-secondary, table-success, table-info, table-warning, table-
   background-color: #E9ECEF;
   border-radius: 5px;
 }
+.cdbg {
+  background-color: #c5ded7;;
+  border-radius: 5px;
+}
 
 .kds{
   color: #d87d7d;
@@ -11046,6 +11050,7 @@ table-primary, table-secondary, table-success, table-info, table-warning, table-
   text-decoration: none;
 }
 .footer-bg{
+  position: relative;
   background-color: #c5ded7;
   display: block;
   padding: 5px;
